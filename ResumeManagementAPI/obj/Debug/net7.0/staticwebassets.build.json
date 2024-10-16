@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "53qheCmkMnjkupY5BrYhZHvfrKqstBIkPLkh6+AOJ3U=",
+  "Source": "ResumeManagementAPI",
+  "BasePath": "_content/ResumeManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumeManagementAPI\\wwwroot",
+      "Source": "ResumeManagementAPI",
+      "ContentRoot": "D:\\ANgular\\AngularEvidence\\test\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ResumeManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ANgular\\AngularEvidence\\test\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\Upload\\out. (1).jpg",
+      "SourceId": "ResumeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ANgular\\AngularEvidence\\test\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ResumeManagementAPI",
+      "RelativePath": "Upload/out. (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\out. (1).jpg"
+    },
+    {
+      "Identity": "D:\\ANgular\\AngularEvidence\\test\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\Upload\\replicate-prediction-kinuprrb6nd565xxphz533jzim (1).jpg",
+      "SourceId": "ResumeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ANgular\\AngularEvidence\\test\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ResumeManagementAPI",
+      "RelativePath": "Upload/replicate-prediction-kinuprrb6nd565xxphz533jzim (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\replicate-prediction-kinuprrb6nd565xxphz533jzim (1).jpg"
+    }
+  ]
+}
